@@ -37,9 +37,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyanshIITB&theme=dark" />
 </p>
 
+### 🔍 Preferred Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
 ---
 
-## 🔗 Let's Connect
+## 🌟 Let's Connect
 
 <p align="center">
   <a href="mailto:divyanshag1010@gmail.com">
@@ -53,3 +59,8 @@
   </a>
 </p>
 
+---
+
+✨ **_"Technology is the key to innovation."_** ✨
+
+---
