@@ -61,6 +61,6 @@
 
 ---
 
-✨ **_"Technology is the key to innovation."_** ✨
+✨ **_"Technology is the key to innovation."_** 
 
 ---
