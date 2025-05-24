@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **Undergrad**: Second-Year Engineering Student at **IIT Bombay**
+- 🎓 **Undergrad**: Third-Year Engineering Student at **IIT Bombay**
 - 🏆 **Achievements**: 99.83 Percentile (JEE Main) out of 1.1 million candidates across India, State Rank 1 in CGPET
 - 🔥 **Interests**: Open-Source, Backend Development, Distributed Systems, Competitive Programming, CSE Fundamentals
 - 👨‍💻 **Looking for**: SDE Internships & Open-Source Contributions
